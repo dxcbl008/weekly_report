@@ -58,12 +58,8 @@ services:
 <!-- https://www.seotraininglondon.org/gpt3-business-email-generator/ -->
 
 ## 一些数据
-### 2023-03-06
-![Weekly Report](./public/2023-03-06-data.jpg)
 
-### 2023-04-19
-![Weekly Report](./public/2023-04-19-data.png)
-
+[![Weekly Report](./public/2023-03-06-data.jpg)]
 
 ## 感谢
 
